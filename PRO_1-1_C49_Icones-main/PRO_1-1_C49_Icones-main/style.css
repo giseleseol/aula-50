@@ -1,0 +1,30 @@
+.header{
+    background-color:aliceblue;
+    display:flex;
+    justify-content:space-between;
+}
+
+.jogos{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+
+.redessociais{
+    display:flex;
+    justify-content:flex-end;
+}
+
+h1{
+    color:blue;
+}
+h2,p{
+    color:black;
+    text-align:center;
+}
+h3{
+    color:darkgray;
+}
+/**{
+    border:solid;
+}*/
